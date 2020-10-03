@@ -7,7 +7,7 @@ import {
   SET_COURSE_IDREQ , SET_COURSE_IDSUCCESS , SET_COURSE_IDFAIL,
   GET_ALL_INSTRUCTORS_REQUEST , GET_ALL_INSTRUCTORS_SUCCESS , GET_ALL_INSTRUCTORS_FAILURE,
   GET_ALL_STUDENTS_REQUEST , GET_ALL_STUDENTS_SUCCESS , GET_ALL_STUDENTS_FAILURE
-} from "./constants";
+} from "./constantsconstants";
 
 import { validateSession, getSessionAuthObj } from "./utils/sessions";
 
